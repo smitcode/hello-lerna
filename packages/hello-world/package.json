@@ -1,5 +1,5 @@
 {
-  "name": "@smitcode/hello-world",
+  "name": "@smitdev/hello-world",
   "version": "0.0.6",
   "description": "> TODO: description",
   "author": "Smit Talashilkar <smittalashilkar@gmail.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/smitcode/hello-lerna/issues"
   },
-  "gitHead": "19d2e9cce1d57c72cb389d7c24486bd42967492d"
+  "gitHead": "3de248fad3b15d3e8e6eb8f21f53108b40278faf"
 }
