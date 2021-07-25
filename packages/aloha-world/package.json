@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/smitcode/hello-lerna.git"
@@ -23,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/smitcode/hello-lerna/issues"
   },
-  "gitHead": "8945da2585aef7f141b6fbc85de907ce3d4b18cd"
+  "gitHead": "19d2e9cce1d57c72cb389d7c24486bd42967492d"
 }
