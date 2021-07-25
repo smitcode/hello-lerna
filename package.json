@@ -1,7 +1,23 @@
 {
-  "name": "root",
+  "name": "@smitdev/root",
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitcode/hello-lerna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smitcode/hello-lerna/issues"
+  },
+  "homepage": "https://github.com/smitcode/hello-lerna#readme",
+  "description": ""
 }
