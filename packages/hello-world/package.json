@@ -5,7 +5,7 @@
   "author": "Smit Talashilkar <smittalashilkar@gmail.com>",
   "homepage": "https://github.com/smitcode/hello-lerna#readme",
   "license": "ISC",
-  "main": "lib/hello-world.js",
+  "main": "dist/codedrive-accordian.cjs.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

@@ -1,7 +1,5 @@
-"use strict";
+import React from "react";
 
-module.exports = helloWorld;
-
-function helloWorld() {
-  console.log("Hello World");
+export default function Accordian() {
+  return <div>Accordian Component New</div>;
 }
